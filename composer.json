@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "clases/"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.5",
+    "firebase/php-jwt": "^6.8"
+  }
+}
